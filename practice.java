@@ -24,20 +24,20 @@ public class practice {
 	System.out.print("\n\n [ShopKeeper NPC 🧙🏼‍♂️] Greetings, Adventurer! A-Ah you must be " + adventurersName + "!" + " Welcome to my humble shop!\n\n 1 -> What do you sell?\n 2 -> Who are you? \n 3 -> I'll leave.\n\n " + "[" + adventurersName + "]: ");
 	int characterAnswer1 = scanner.nextInt();
 
-	// MY VARIABLES START 🚩
+	// MY VARIABLES START 
 
 	// String adventurersName Ln 9
 	// int charactersAnswer1 Ln 24, Ln 38
 	// int charactersAnswer2 Ln 59, Ln 61 
 	
-	// MY VARIABLES END ⛳
+	// MY VARIABLES END 
 
-	// WHAT TO ADD START 🚩
+	// WHAT TO ADD START 
 
 	// While loops
 	// Starting
 
-	// WHAT TO ADD END ⛳
+	// WHAT TO ADD END 
 
 	switch (characterAnswer1) {
 
